@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media (min-width: 601px) and (max-width: 1024px) {
+  .container {
+    width: 80%;
+    padding: 20px;
+  }
+}
+
